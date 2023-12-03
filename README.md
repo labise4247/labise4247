@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+`2021.3 ~ `: Busan University of Foreign Studies [Korea] (Major in Software)
+
 <!--
 **labise4247/labise4247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
